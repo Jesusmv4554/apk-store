@@ -1,0 +1,22 @@
+{
+    "apps": [
+        {
+            "name": "YouTube",
+            "url": "https://devuploads.com/fzystkje6nz7",
+            "version": "2.0 Premium",
+            "image": "ytb"
+        },
+        {
+            "name": "Zueira",
+            "url": "https://devuploads.com/stqcqxc6ffnc",
+            "version": "2.8.90",
+            "image": "zuei"
+        },
+        {
+            "name": "Eraser",
+            "url": "https://devuploads.com/hx9uawbgmhrx",
+            "version": "2.085",
+            "image": "eraser"
+        }
+    ]
+}
