@@ -1,4 +1,1 @@
-{
-  "version": "1.0",
-  "url": "https://tu-sitio.com/actualizacion.apk"
-}
+{ "Visibilidad": "VISIBLE", "Título": "Prueba", "Descripción": "Mensaje de prueba", "MainTextButton": "Actualizar", "Cancelable": "verdadero", "CancelButtonText": "Cancelar", "DownloadLink": "https://www.youtube.com/@JMV4554", "Versión": "1.1.0" }
